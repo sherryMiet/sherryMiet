@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sherryMiet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 俞育襦
 
-<!---
-sherryMiet/sherryMiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+國立台中科技大學．資訊應用菁英班<br>
+Taichung City，TW<br>
+sherry2000307@gmail.com<br>
+我來自高雄，喜歡發現新事物並勇於嘗試。目前正活躍於後端開發並且鑽研Go語言中。 期待往後能夠成為超酷的Developer。<br>
+<hr>
