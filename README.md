@@ -52,7 +52,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sherryMiet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherryMiet" src="https://github-readme-streak-stats.herokuapp.com/?user=sherryMiet&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherryMiet" src="https://github-readme-streak-stats.herokuapp.com?user=sherryMiet&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 
 </td>
 <td width="50%" align="center">
