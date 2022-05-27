@@ -15,9 +15,6 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-<a href="mailto:sherry2000307@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
