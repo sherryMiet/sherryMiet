@@ -25,12 +25,18 @@
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> </code> 
   <code> <img height="50" src="https://docs.microsoft.com/zh-tw/windows/images/csharp-logo.png"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code> 
+   <br>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+   <br>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
+  <code> <img height="50" src="https://s4.itho.me/sites/default/files/styles/picture_size_large/public/960x420_44.png?itok=2gdTq8nb"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </code>
+   <br>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code> 
